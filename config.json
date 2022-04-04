@@ -1,0 +1,27 @@
+  {
+	"prefix": "/",
+  "sahip": [
+    "443528177449566221"
+  ],
+  "token": "",
+  "yıl": "2021",
+  "server": "https://discord.gg/7d7RTRYsHH",
+  "sürüm": "v1.0.0",
+  "premesaj": "Bu komut sadece **Premium Sunucular'a** Özeldir! Eğer siz de komutu kullanmak istiyorsanız **!!premium paket** ile geliştiriciyle iletişime geçerek alabilirsiniz!",
+  "colors": {
+    "error": "0xFF0000",
+    "success": "0x00FF46",
+    "warning": "0xFFD100"
+  },
+  "emotes": {
+  "music": "🎶 ",
+  "queue": "🎞️",
+  "error": "❌",
+  "success": "☑️",
+  "warning": "⚠️",
+  "repeat": "🔁",
+  "pause": "⏸️",
+  "resume": "⏯️",
+  "stop": "⏹️"
+  }
+}
