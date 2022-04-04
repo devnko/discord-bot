@@ -1,1 +1,1 @@
-# [FireOfEternity v2](https://bit.ly/fireofeternity)
+
